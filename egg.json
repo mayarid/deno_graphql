@@ -1,5 +1,6 @@
 {
-    "name":"deno-graphql",
+    "name":"deno_graphql",
+    "version": "v0.2.2",
     "description":"GraphQL HTTP middlewares for Deno server frameworks.",
     "stable":true,
     "files":[
