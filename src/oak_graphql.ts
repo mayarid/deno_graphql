@@ -3,7 +3,7 @@
 import {
   RouterContext,
   RouterMiddleware,
-} from "https://deno.land/x/oak@v4.0.0/mod.ts";
+} from "https://deno.land/x/oak@v10.1.0/mod.ts";
 import { GraphQLOptions, GraphQLParams, runHttpQuery } from "./_graphql.ts";
 
 /**
